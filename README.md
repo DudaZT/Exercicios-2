@@ -14,7 +14,7 @@ Clone o repositório:
 
 <br><br>
 
-## ✨ Exercícios e Soluções
+## ✨ Exercícios 
 
 ### 1. Cálculo da Soma
 
